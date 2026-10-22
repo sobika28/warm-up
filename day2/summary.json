@@ -1,0 +1,24 @@
+{
+    "total_students": 4,
+    "average_marks": 88.5,
+    "topper": "sobi",
+    "topper_marks": 98.0,
+    "students": [
+        {
+            "name": "sobi",
+            "marks": 98.0
+        },
+        {
+            "name": "harini",
+            "marks": 80.0
+        },
+        {
+            "name": "akshaya",
+            "marks": 91.0
+        },
+        {
+            "name": "sabarish",
+            "marks": 85.0
+        }
+    ]
+}
